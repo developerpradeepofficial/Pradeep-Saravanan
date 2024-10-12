@@ -1,5 +1,11 @@
 # 💫 About Me:
-My name is Pradeep (he/him). I'm a self-taught front-end developer who is passionate about learning new technologies & building things.<br><br>I'm an art and design enthusiast, so I truly love bringing ideas to life in the form of beautiful and responsive websites.<br><br>I believe we never stop learning, so I work hard to expand my skill set and stay updated. With a background in the education field, helping institutes to create an optimal user experience for their e-learning courses, I'm also very familiar with the importance of accessibility.
+I’m a passionate Data Scientist Consultant and Software Engineer with a knack for turning complex problems into simple, data-driven solutions. With experience across AI/ML, front-end/back-end development, and project management, I love diving deep into the world of algorithms, while keeping an eye on the big picture — driving innovation and delivering real-world impact.
+
+From building WebRTC apps that connect people to creating document chatbots powered by cutting-edge language models, I thrive on bringing ideas to life through technology. I’ve worked on some pretty cool projects (if I do say so myself), and I’m always up for the next challenge. Whether it's React, Python, Prisma, or a dash of humor, I bring a well-rounded toolkit to every project.
+
+On a more personal note, I’ve been awarded for both academic and extracurricular excellence (no big deal, right?). I also host 60+ websites and somehow manage not to break them... most of the time. When I'm not coding or analyzing data, you might find me attempting to convince people that algorithms can be fun (with varying degrees of success).
+
+Let’s collaborate and create something amazing — or at least something that doesn’t crash!
 
 
 ## 🌐 Socials:
